@@ -5,5 +5,4 @@ void greet(){
 }
 int main(){
     cout<<"Hello";
-    cout << "This is a new line";
 }
